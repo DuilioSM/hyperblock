@@ -5,9 +5,6 @@ body {
 body
  {
      color: blue;
-<<<<<<< HEAD
- }
-=======
      display: flex;
      flex-direction: column;
      justify-content: center;
@@ -20,5 +17,4 @@ body
     display: inherit;
     justify-content: center;
     box-shadow:5px 5px 5px 5px black ;
-}
->>>>>>> cabecera
+ }
