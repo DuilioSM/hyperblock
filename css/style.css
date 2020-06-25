@@ -4,5 +4,17 @@ body {
 }
 body
  {
-     color: yellow;
+     color: blue;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
  }
+.cabecera {
+    width: 70%;
+    border: 1px solid gray;
+    height: 20%;
+    display: inherit;
+    justify-content: center;
+    box-shadow:5px 5px 5px 5px black ;
+}
